@@ -12,7 +12,7 @@ Saas Tool that helps companies and organization manage there project and track p
 - Frontend: React (brief highlights)
 - Backend: FastAPI (endpoints, auth, API)
 - Database: Postgres (key schemas)
-- DevOps: Docker, CI/CD via GitHub Actions
+- DevOps: Docker, CI/CD via GitHub Actions.
 
 ## Key features & impact
 - Has flawlessly reduced 40% on malicious damages on basix, logistic and transport drawbacks.
